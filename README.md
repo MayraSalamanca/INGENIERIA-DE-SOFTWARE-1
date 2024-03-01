@@ -1,7 +1,7 @@
 # INGENIERIA-DE-SOFTWARE-1
 Repositorio de almacenamiento de información para las Empresas seleccionadas por cada grupo.
 
-####Lideres:
+#### Lideres:
 
  - Felipe Ocampo (Felipeosg11) - Beauty Company
  - Nelson Ayala (nexker) - Siemens
