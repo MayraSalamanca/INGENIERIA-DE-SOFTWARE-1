@@ -8,6 +8,7 @@ Repositorio de almacenamiento de información para las Empresas seleccionadas po
  - Diego Páez (DiegoMauricioPaez) - TsES rups
  - Felipe gonzalez (Felipeg1213) - Uber 
  - Johel Santiago Arias (5arSanti) - Unidad del Servicio Publico de Empleo 
+ - Juan Pablo Marquez (juanpmqz18) - AWS
  
 ### Importante!
 - Cada Lider es reponsable de la carpeta de su Empresa.
