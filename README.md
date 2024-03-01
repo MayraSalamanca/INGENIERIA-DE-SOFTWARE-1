@@ -9,3 +9,4 @@ Repositorio de almacenamiento de información para las Empresas seleccionadas po
  - Felipe gonzalez (Felipeg1213) - Uber 
  - Johel Santiago Arias (5arSanti) - Unidad del Servicio Publico de Empleo 
  - Dana Valeria Urquijo Ospitia (Danaur9) - UPRA 
+ - Juan Pablo Marquez (juanpmqz18) - AWS
