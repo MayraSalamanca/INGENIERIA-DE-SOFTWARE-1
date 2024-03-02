@@ -9,6 +9,8 @@ Repositorio de almacenamiento de información para las Empresas seleccionadas po
  - Felipe gonzalez (Felipeg1213) - Uber 
  - Johel Santiago Arias (5arSanti) - Unidad del Servicio Publico de Empleo 
  - Juan Pablo Marquez (juanpmqz18) - AWS
+ - Thomas Morales (Thomasm1233) - CHAIN GROUP LOGISTICS S.A.S
+ - Camilo Salamanca (cam12356) - Ingyemel
  
 ### Importante!
 - Cada Lider es reponsable de la carpeta de su Empresa.
