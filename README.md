@@ -8,7 +8,7 @@ Repositorio de almacenamiento de información para las Empresas seleccionadas po
  - Diego Páez (DiegoMauricioPaez) - TsES rups
  - Felipe gonzalez (Felipeg1213) - Uber 
  - Johel Santiago Arias (5arSanti) - Unidad del Servicio Publico de Empleo 
- - Juan Pablo Marquez (juanpmqz18) - AWS
+ - Juan Pablo Marquez (juanpmqz18) - PERLAS LUNAR
  - Thomas Morales (Thomasm1233) - CHAIN GROUP LOGISTICS S.A.S
  - Camilo Salamanca (cam12356) - Ingyemel
  
